@@ -25,7 +25,6 @@
 - **JavaScript** – Interactivity  
 - **Lucide Icons** – Clean and consistent icons
 
-<img width="1921" height="8127" alt="dental-serv" src="https://github.com/user-attachments/assets/913de07e-92ca-4312-8231-b138d77085cf" />
 
 ![App Preview](https://github.com/user-attachments/assets/913de07e-92ca-4312-8231-b138d77085cf)
 
